@@ -44,6 +44,22 @@ If WellNex suggests that you should seek professional medical help, the app can 
 
 WellNex's AI is constantly improving. With every interaction and user feedback, the app's diagnostic accuracy and range of conditions expand, ensuring that you receive the most up-to-date and reliable information.
 
+# 🧩 Built With
+
+- **M**ongoDB
+- **E**xpressJS
+- **N**odeJS
+- **B**ootstrap
+- **F**lask
+- **R**ust
+- **F**lutter
+- **S**olana
+- **S**treamlit
+- **R**eplit
+- **A**uth0
+- **P**ostman
+- **G**oDaddy
+
 # 👥 Contributors
 
 - Raja Majumdar - [LinkedIn](https://www.linkedin.com/in/raja-majumdar/) | [GitHub](https://github.com/r3yc0n1c)
