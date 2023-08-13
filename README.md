@@ -60,6 +60,11 @@ WellNex's AI is constantly improving. With every interaction and user feedback, 
 - **P**ostman
 - **G**oDaddy
 
+# Project Structure
+- Blockchain repo - https://github.com/TeamZetta/wellnex-solana
+- WellNex API - https://github.com/TeamZetta/wellnex-api
+- Android App - https://github.com/TeamZetta/wellnex-app
+
 # 👥 Contributors
 
 - Raja Majumdar - [LinkedIn](https://www.linkedin.com/in/raja-majumdar/) | [GitHub](https://github.com/r3yc0n1c)
